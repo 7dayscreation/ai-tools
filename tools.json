@@ -1,5 +1,14 @@
 [
   {
+    "id": "sarvam",
+    "name": "Sarvam",
+    "tags": ["Voice agents", "Speech to text", "Text to speech"],
+    "image": "assets/imgs/serv/sarvan.jpg",
+    "link": "https://www.sarvam.ai/",
+    "date": "2026-04-28",
+    "featured": true
+  },
+  {
     "id": "chatgpt",
     "name": "ChatGPT",
     "tags": ["AI", "Chatbot", "Productivity"],
